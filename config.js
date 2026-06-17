@@ -25,7 +25,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'A Trip Through Historic Reese Street, 1851-1956',
-            image: '/knox.jpg',
+            image: 'knox.jpg',
             description: 'The Reese Street neighborhood thrived in the mid-1920s as a cultural hub for Black Athenians, serving as a center of education, business, faith, and community despite ongoing segregation and limited opportunity. Nestled just west of downtown Athens, the historic neighborhood was home to prominent educators, businesspeople, and civic leaders who helped shape the city\'s Black identity and legacy. Home to iconic institutions like Hill First Baptist Church and Athens High & Industrial School, the neighborhood cultivated a strong sense of community, resilience, and achievement. This map will explore the history of Reese Street\'s educational institutions through the lives of three generations of the Jackson-Brydie clan, a family of Black educators with deep roots in the neighborhood.',
             location: {
                 center: [-83.38697, 33.95821],
@@ -115,7 +115,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'The Jackson-Brydie Family',
-            image: '/sisters.jpg',
+            image: 'sisters.jpg',
             description: 'The Jackson-Brydies were a family of educators who lived and worked in Reese Street over the course of about 70 years, from 1886 to around 1956. Not only did they work in Reese Street\'s educational institutions and other schools for Black students around Athens, they also owned several properties within the neighborhood. This story begins with the remarkable lives of three sisters who all became educators and landowners in Athens: Camilla, Mary, and Judia.',
             location: {
                 center: [-83.38339, 33.95787],
@@ -149,7 +149,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Homes on North Finley Street',
-            image: '/223north.jpg',
+            image: '223north.jpg',
             description: 'These were the properties owned between the sisters in the neighborhood: 223 North Finley (pictured), 249 North Finley, and 193 North Finley. The sisters owned a fourth home at 101 North Finley, which was likely destroyed when Broad Street was widened in 1938.',
             location: {
                 center: [-83.38327, 33.95695],
@@ -201,7 +201,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Camilla Jackson Brydie, 1851-1925',
-            image: '/camilla.jpg',
+            image: 'camilla.jpg',
             description: 'Camilla, the eldest of the three Jackson-Brydie sisters, was born in 1851 in the nearby neighborhood of Lickskillet. She was born into slavery, yet still learned to read and write. At the age of 17, she became a teacher at the Knox Institute in Reese Street. She walked between her home in Lickskillet and Reese Street every day, and eventually came to live in the homes that she owned with her sisters on North Finley. On her commute between her then home in Lickskillet and the Knox Institute, she likely would have passed Hot Corner, Athens\'s Black business district, highlighting the interconnectedness of Black communities in Athens. She took on an important role in Reconstruction-era Athens, serving as an educator at a hopeful time for Athens\'s Black residents.',
             location: {
                 center: [-83.38359, 33.95850],
@@ -244,7 +244,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Knox Institute',
-            image: '/knox2.jpg',
+            image: 'knox2.jpg',
             description: 'The Knox Institute and Industrial School was founded in 1868 by the Freedmen\'s Bureau at the corner of Reese and Pope streets. Later on, the Knox Institute building would become managed by Athens High and Industrial School (formerly the Reese Street School), which was the first 4-year accredited high school for Black students in the state of Georgia.',
             location: {
                 center: [-83.38446, 33.95681],
@@ -280,7 +280,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Mary Jackson McCrorey, 1867-1944',
-            image: '/mary.jpg',
+            image: 'mary.jpg',
             description: 'Born in 1867, Mary was the first of the three sisters to be born free. She started teaching in rural schoolhouses around Athens in 1880, at the age of 13 or 14. She would later become the first Black public school principal in Athens.',
             location: {
                 center: [-83.37834, 33.96041],
@@ -318,7 +318,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Mary\'s Reese Street Real Estate Purchases',
-            image: '/nfinleyhouse.png',
+            image: 'nfinleyhouse.png',
             description: 'Mary was the first family member to purchase land on North Finley Street, including those at 223 and 101 North Finley. Camilla and her husband Eugene, a barber whom she married in the early 1870s, also moved into the house at 101 North Finley, tying the family even more closely to the Reese Street neighborhood. Judia lived with the Brydies there where she was teaching at the West Broad School. ',
             location: {
             center: [-83.38340, 33.95716],
@@ -362,7 +362,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Judia Jackson Harris, 1870-1960',
-            image: '/judia.jpg',
+            image: 'judia.jpg',
             description: 'Judia, the youngest of the three sisters, was born in 1870. She went on to attend several educational institutions in her pursuit to become an educator like her sisters. After graduating from the teacher training course at Atlanta University in 1894, she came back to Athens and taught at the East Athens and West Broad schools, eventually becoming principal of the East Athens school in 1902.',
             location: {
                 center: [-82.65207, 37.62059],
@@ -389,7 +389,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'J.J. Harris\'s Model Schools',
-            image: '/modelschool.png',
+            image: 'modelschool.png',
             description: 'Around this same time, Judia began working with families in rural Clarke County. In 1903, she left Athens City Schools to establish a Model and Training School on Danielsville Road. Garnering the attention and support of national leaders like W.E.B. DuBois and George Washington Carver, her school combined teacher training with a curriculum in music, theater, literature, blacksmithing, and sewing, altogether providing educational opportunities for underserved, rural Black communities.',
             location: {
                 center: [-83.34037, 34.01912],
@@ -408,7 +408,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Samuel Harris, 1875-1935',
-            image: '/samuelharris.jpg',
+            image: 'samuelharris.jpg',
             description: 'In 1912, Judia married Samuel F. Harris, who was himself a school principal. Under Samuel’s direction, the Athens Board of Education opened a new school, the Reese Street School, in the neighborhood in 1914. The school extended public education for Black students up through the 10th grade, and would later evolve into the Athens High & Industrial School, the first accredited 4-year high school for Black students in the state of Georgia.',
             location: {
                 center: [-83.38400, 33.95737],
@@ -433,7 +433,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Camilla\'s Daughters',
-            //image: '/judia.jpg',
+            //image: 'judia.jpg',
             description: 'Camilla had seven children with her husband Eugene, and several went on to become educators as well. Carolyn, Georgia, Mamie, and Mattie all followed in their family’s footsteps to become teachers, with Mamie and Mattie eventually working at the Reese Street School. Carolyn also entered into a real estate contract to purchase the house at 193 N Finley street, which was just across the street from the house her family occupied.',
             location: {
                 center: [-83.38480, 33.95750],
@@ -452,7 +452,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Camilla\'s Granddaughter: Ella Gilbert Brown',
-            //image: '/judia.jpg',
+            //image: 'judia.jpg',
             description: 'Camilla soon moved her family across the street into the house at 193 N Finley, including, by then, her granddaughter Ella Gilbert (who was Georgia’s daughter). Ella finished school in 1913, studying under Samuel Harris, her great-uncle, and started as a teacher with Athens Public Schools in 1920. She initially taught sixth grade at the Knox Institute, but following its closure in 1928 and some institutional restructuring, she became principal of the Reese Street School.',
             location: {
                 center: [-83.38480, 33.95750],
@@ -471,7 +471,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Changes in the Family',
-            image: '/249house.png',
+            image: '249house.png',
             description: 'In 1925, Camilla passed away unexpectedly, and many members of the Jackson-Brydie clan moved away from Reese Street and Athens, leaving only Judia, Georgia, and her daughter, Ella, in the vicinity. Though the family’s physical presence in the area had diminished, their landholdings increased. Georgia bought the house at 249 N Finley (pictured above) and moved there with Ella, where they would remain for many years.',
             location: {
                 center: [-83.38480, 33.95750],
@@ -490,7 +490,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'School Closures',
-            image: '/rsschool.png',
+            image: 'rsschool.png',
             description: 'With the 1954 decision in Brown v. Board of Education bringing about school desegregation and the consolidation of Athens City and County Schools into one system, Athens High & Industrial was reloaded outside of Reese Street. The Athens School Board shuttered the Reese Street School soon thereafter in 1955. Then, in 1956, Judia’s model school on Danielsville Road also closed. These closures were a monumental loss for the neighborhood and for Athens’ Black community more broadly. These institutions were tied to Reese Street’s identity and were also important assets for Black Athenians. Ella would finish out her career not at the Reese Street School where she had invested decades of care and support, but at a different school in another part of Athens.',
             location: {
                 center: [-83.38480, 33.95750],
@@ -509,7 +509,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'A Different Trajectory for Reese Street?',
-            //image: '/judia.jpg',
+            //image: 'judia.jpg',
             description: 'It is ironic that the forces of desegregation and racial equality would also lead to the dismantling of Black educational institutions. This fact raises the question of how Reese Street might have evolved differently had there been an investment made into these schools, rather than having them closed. What could have been if the white school board had poured more resources into the Reese Street School or Athens High & Industrial? What new programs could have flourished? What could they have become?',
             location: {
                 center: [-83.38480, 33.95750],
@@ -528,7 +528,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Preserving Reese Street\'s Character',
-            //image: '/judia.jpg',
+            //image: 'judia.jpg',
             description: 'The Reese Street building still stands today, as do the Jackson-Brydie family\’s houses along North Finley Street.' +
             '\n<div class="video-wrapper">' +
                 '<iframe loading="lazy" src="https://youtu.be/tCIghaj-Umk" title="YouTube video player" frameborder="200" allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; encrypted-media" allowfullscreen></iframe>' +
