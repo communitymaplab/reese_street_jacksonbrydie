@@ -544,6 +544,25 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
+        },
+        {
+            id: 'nineteenth-chapter',
+            alignment: 'center',
+            hidden: false,
+            title: 'Credits',
+            //image: 'judia.jpg',
+            description: 'This map was created by the Community Mapping Lab, in collaboration with Historic Athens and other friends of the Reese Neighborhood. Benen Chancey was responsible for creating the map, and its content is based on Jane McPherson\'s article, "A Call to Remember", published in the 2025 issue of Athens Historian. Hope Iglehart, Amy Andrews, Jerry Shannon, Denise Sunta, and Kayla Anderson also advised on this project.', 
+            location: {
+                center: [-83.38480, 33.95750],
+                zoom: 16.8,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
         }
     ]
 };
