@@ -12,19 +12,20 @@ var config = {
         markerColor: 'orange'
     },
     insetPosition: 'bottom-right',
+    insetPosition: 'bottom-right',
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     //title: 'Reese Street: Following the Jackson-Brydie family',
     //subtitle: 'Learn more about the historic Reese Street neighborhood through the eyes of one family of educators.',
     //byline: 'Created through the <a href="https://www.communitymappinglab.org" target="_blank">Community Mapping Lab</a>',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'first-chapter',
             alignment: 'center',
             hidden: false,
-            title: 'A Trip Through Historic Reese Street, 1851-1956',
+            title: 'Reese Street: Following the Jackson-Brydie family, 1851-1956',
             image: 'knox.jpg',
             description: 'The Reese Street neighborhood thrived in the mid-1920s as a cultural hub for Black Athenians, serving as a center of education, business, faith, and community despite ongoing segregation and limited opportunity. Nestled just west of downtown Athens, the historic neighborhood was home to prominent educators, businesspeople, and civic leaders who helped shape the city\'s Black identity and legacy. Home to iconic institutions like Hill First Baptist Church and Athens High & Industrial School, the neighborhood cultivated a strong sense of community, resilience, and achievement. This map will explore the history of Reese Street\'s educational institutions through the lives of three generations of the Jackson-Brydie clan, a family of Black educators with deep roots in the neighborhood.',
             location: {
@@ -551,7 +552,7 @@ var config = {
             hidden: false,
             title: 'Credits',
             //image: 'judia.jpg',
-            description: 'This map was created by the Community Mapping Lab, in collaboration with Historic Athens and other friends of the Reese Neighborhood. Benen Chancey was responsible for creating the map, and its content is based on Jane McPherson\'s article, "A Call to Remember", published in the 2025 issue of Athens Historian. Hope Iglehart, Amy Andrews, Dr. Jane McPherson, Dr. Jerry Shannon, Denise Sunta, and Dr. Kayla Anderson also advised on this project.', 
+            description: 'This map was created by the Community Mapping Lab, in collaboration with Historic Athens and other friends of the Reese Neighborhood. Benen Chancey was responsible for creating the map, and its content is based on Dr. Jane McPherson\'s article, "A Call to Remember", published <a href="https://complexcloth.org/wp-content/uploads/2025/07/McPherson-2025-A-Call-to-Remember-1.pdf" target="_blank">in the 2025 issue of Athens Historian</a>. Hope Iglehart, Amy Andrews, Dr. Jane McPherson, Dr. Jerry Shannon, Denise Sunta, and Dr. Kayla Anderson also advised on this project.', 
             location: {
                 center: [-83.38480, 33.95750],
                 zoom: 16.8,
