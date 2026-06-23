@@ -15,9 +15,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    //title: 'A Trip through Reese Street',
+    //title: 'Reese Street: Following the Jackson-Brydie family',
     //subtitle: 'Learn more about the historic Reese Street neighborhood through the eyes of one family of educators.',
-    //byline: 'By CML',
+    //byline: 'Created through the <a href="https://www.communitymappinglab.org" target="_blank">Community Mapping Lab</a>',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
@@ -551,7 +551,7 @@ var config = {
             hidden: false,
             title: 'Credits',
             //image: 'judia.jpg',
-            description: 'This map was created by the Community Mapping Lab, in collaboration with Historic Athens and other friends of the Reese Neighborhood. Benen Chancey was responsible for creating the map, and its content is based on Jane McPherson\'s article, "A Call to Remember", published in the 2025 issue of Athens Historian. Hope Iglehart, Amy Andrews, Jerry Shannon, Denise Sunta, and Kayla Anderson also advised on this project.', 
+            description: 'This map was created by the Community Mapping Lab, in collaboration with Historic Athens and other friends of the Reese Neighborhood. Benen Chancey was responsible for creating the map, and its content is based on Jane McPherson\'s article, "A Call to Remember", published in the 2025 issue of Athens Historian. Hope Iglehart, Amy Andrews, Dr. Jane McPherson, Dr. Jerry Shannon, Denise Sunta, and Dr. Kayla Anderson also advised on this project.', 
             location: {
                 center: [-83.38480, 33.95750],
                 zoom: 16.8,
