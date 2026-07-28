@@ -127,10 +127,12 @@
             aspect-ratio: 16/9;     /* keeps a 16:9 ratio; lets height grow as width grows */
             max-height: 60vh;       /* avoid huge players on tall screens */
             box-sizing: border-box;
-            overflow: hidden;
+            overflow: visible;
         }
 
-        .video-wrapper iframe,
+		.video-wrapper iframe {
+			pointer-events: auto !important;
+		}
         .video-wrapper object,
         .video-wrapper embed {
             width: 100%;

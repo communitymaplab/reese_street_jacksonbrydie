@@ -532,7 +532,7 @@ var config = {
             //image: 'judia.jpg',
             description: 'The Reese Street building still stands today, as do the Jackson-Brydie family\’s houses along North Finley Street. The video below provides a 360 view of their homes. Open it in YouTube, and you can use your mouse or tilt your phone to change your view.' +
             '\n<div class="video-wrapper" style="position: relative; z-index: 9999; pointer-events: auto;">' +
-                '<iframe loading="lazy" width="100%" height="500px" src="https://youtube.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="pointer-events: auto;"></iframe>' +
+                '<iframe loading="lazy" width="100%" height="100%" src="https://www.youtube.com/embed/tCIghaj-Umk?si=TfUWqHKJe0pejTq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="pointer-events: auto;"></iframe>' +
                 '</div>',
             location: {
                 center: [-83.38480, 33.95750],
