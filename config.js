@@ -531,8 +531,8 @@ var config = {
             title: 'Preserving Reese Street\'s Character',
             //image: 'judia.jpg',
             description: 'The Reese Street building still stands today, as do the Jackson-Brydie family\’s houses along North Finley Street.' +
-            '\n<div class="video-wrapper">' +
-                '<iframe loading="lazy" src="https://www.youtube.com/embed/tCIghaj-Umk?si=TfUWqHKJe0pejTq2" title="YouTube video player" frameborder="200" allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; encrypted-media" allowfullscreen></iframe>' +
+            '\n<div class="video-wrapper" style="position: relative; z-index: 9999; pointer-events: auto;">' +
+                '<iframe loading="lazy" width="100%" height="500px" src="https://youtube.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="pointer-events: auto;"></iframe>' +
                 '</div>',
             location: {
                 center: [-83.38480, 33.95750],
