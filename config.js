@@ -27,7 +27,7 @@ var config = {
             hidden: false,
             title: 'Reese Street: Following the Jackson-Brydie family, 1851-1956',
             image: 'knox.jpg',
-            description: 'The Reese Street neighborhood thrived in the mid-1920s as a cultural hub for Black Athenians, serving as a center of education, business, faith, and community despite ongoing segregation and limited opportunity. Nestled just west of downtown Athens, the historic neighborhood was home to prominent educators, businesspeople, and civic leaders who helped shape the city\'s Black identity and legacy. Home to iconic institutions like Hill First Baptist Church and Athens High & Industrial School, the neighborhood cultivated a strong sense of community, resilience, and achievement. This map will explore the history of Reese Street\'s educational institutions through the lives of three generations of the Jackson-Brydie clan, a family of Black educators with deep roots in the neighborhood.',
+            description: 'The Reese Street neighborhood thrived in the mid-1920s as a cultural hub for Black Athenians, serving as a center of education, business, faith, and community despite ongoing segregation and limited opportunity. Nestled just west of downtown Athens, the historic neighborhood was home to prominent educators, businesspeople, and civic leaders who helped shape the city\'s Black identity and legacy. Home to iconic institutions like Hill First Baptist Church and Athens High & Industrial School, the neighborhood cultivated a strong sense of community, resilience, and achievement. This map will explore the history of Reese Street\'s educational institutions through the lives of three generations of the Jackson-Brydie clan, a family of Black educators with deep roots in the neighborhood.<p> This map was created by Benen Chancey from UGA\'s Community Mapping Lab, with input from Hope Iglehart, Amy Andrews, Dr. Jane McPherson, Dr. Jerry Shannon, Denise Sunta, and Dr. Kayla Anderson.',
             location: {
                 center: [-83.38697, 33.95821],
                 zoom: 12,
@@ -532,7 +532,7 @@ var config = {
             //image: 'judia.jpg',
             description: 'The Reese Street building still stands today, as do the Jackson-Brydie family\’s houses along North Finley Street.' +
             '\n<div class="video-wrapper">' +
-                '<iframe loading="lazy" src="https://youtu.be/tCIghaj-Umk" title="YouTube video player" frameborder="200" allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; encrypted-media" allowfullscreen></iframe>' +
+                '<iframe loading="lazy" src="https://www.youtube.com/embed/tCIghaj-Umk?si=TfUWqHKJe0pejTq2" title="YouTube video player" frameborder="200" allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; encrypted-media" allowfullscreen></iframe>' +
                 '</div>',
             location: {
                 center: [-83.38480, 33.95750],
